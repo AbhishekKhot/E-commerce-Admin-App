@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CodeBoom Vendor App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_category">Product category</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_selling_price">Product Selling Price</string>
+    <string name="category_name">Category name</string>
+    <string name="choose_cover_image">Choose Cover Image</string>
+    <string name="choose_products_image">Choose Products Image</string>
+    <string name="add_product">ADD PRODUCT</string>
+    <string name="uploading">Uploading...</string>
+</resources>
